@@ -4,8 +4,17 @@ Best team in the 2024 Hackathon❤️
 The time zone will be assumed to be Eastern time.
 
 ## Meeting Plans
-The next meeting will be on **08/15/24 10 A.M. (eastern time)**
+The next meeting will be on **08/15/24 10 P.M. (eastern time)**
 ## Meeting Summary
+### 8/15(Morning)
+* **Matthew Correlation Coefficient**
+
+It takes two arrays and returns a number. The goal as of right now is to get the ATAC and RNA data that appear in the training dataset. **Thank you Mai for writing the MCC method!**
+
+* **A Better Way to Export Data?**
+
+When using Google Colab, Pandas only shows the first 38,618 rows of data, which hinders me from exporting data using coding. **We need to find a way to export data using code.**
+Ideally, we can use PD's concat method to merge the rows.
 ### 8/14
 * **How to use ATAC and RNA data**
 
@@ -29,11 +38,10 @@ Example: chr1-89196985-89201657 (chromosome location-peak start unit-peak end un
 
 The crucial part of the gene should fall into the peak to make the peak and the gene correlate.
 ## Tasks
-Extract the training dataset's peak-gene pair data from the ATAC and RNA files.
-* Mai: 1-75
-* Gary: 76-150
-* Jeana: 151-225
-* Ciarrah: 226-300
+Extract the 300 rows of ATAC data that appear in the training data by 8/16 at 10 A.M. If we cannot come up with an easier way, here is the brute force assignment:
+* Ciarrah: 1-100
+* Gary: 101-200
+* Jeana: 201-300
 
 
 # University of Rochester Biomedical Data Science Hackathon Summer 2024
