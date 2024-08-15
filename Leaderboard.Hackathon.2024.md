@@ -1,13 +1,16 @@
 # Leaderboard for GIDS Biomedical Data Hackathon 2024
 
--   **time stamp:** “15 August, 2024 15:00:14”
+-   **time stamp:** “15 August, 2024 15:35:02”
 
 | pseudonym                     |     MCC |
 |:------------------------------|--------:|
 | DMMH                          |  1.0000 |
 | The Browns                    |  0.9868 |
+| BASE                          |  0.9734 |
 | Zong Time                     |  0.9480 |
+| Tiramisu                      |  0.9468 |
 | AttnIsAllYouNeed              |  0.8745 |
+| CookieMonster                 |  0.7948 |
 | Phoenix                       |  0.7667 |
 | data science girlies          |  0.7069 |
 | 60hahsm                       |  0.7000 |
@@ -52,19 +55,16 @@ Please read instructions carefully.*
 
 | pseudonym           |
 |:--------------------|
-| BASE                |
 | Lucy                |
 | Works on my machine |
 | DS_2024             |
 | Typhoon             |
-| CookieMonster       |
 | HT                  |
 | KD                  |
 | Medhini             |
 | Shak                |
 | The game            |
 | PY                  |
-| Tiramisu            |
 | Gathucy             |
 | Lambsord            |
 | Saint Levant        |
