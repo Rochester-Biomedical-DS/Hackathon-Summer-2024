@@ -1,24 +1,27 @@
 # Leaderboard for GIDS Biomedical Data Hackathon 2024
 
--   **time stamp:** “15 August, 2024 15:35:02”
+-   **time stamp:** “16 August, 2024 15:00:03”
 
 | pseudonym                     |     MCC |
 |:------------------------------|--------:|
 | DMMH                          |  1.0000 |
-| The Browns                    |  0.9868 |
+| Capybara                      |  0.9800 |
 | BASE                          |  0.9734 |
-| Zong Time                     |  0.9480 |
-| Tiramisu                      |  0.9468 |
+| Zong Time                     |  0.9672 |
+| The Browns                    |  0.9669 |
+| MJCG Lab                      |  0.9539 |
+| Tiramisu                      |  0.9470 |
 | AttnIsAllYouNeed              |  0.8745 |
 | CookieMonster                 |  0.7948 |
 | Phoenix                       |  0.7667 |
+| iKun                          |  0.7387 |
 | data science girlies          |  0.7069 |
-| 60hahsm                       |  0.7000 |
-| iKun                          |  0.6288 |
-| Biomedical Datascience Team 2 |  0.5887 |
+| 60hahsm                       |  0.6879 |
 | why-axis                      |  0.5821 |
-| Rookie Data Scientist         |  0.4801 |
-| Pickleballers                 |  0.3593 |
+| Rookie Data Scientist         |  0.4540 |
+| Gathucy                       |  0.4388 |
+| Pickleballers                 |  0.3541 |
+| Biomedical Datascience Team 2 |  0.3223 |
 | YEAST                         | -0.0231 |
 | FLY                           | -0.0400 |
 | ?                             | -0.0400 |
@@ -26,11 +29,8 @@
 | KPTH                          | -0.0400 |
 | Elden Lord                    | -0.0400 |
 | HumanGPT                      | -0.0400 |
-| MJCG Lab                      | -0.0400 |
-| Capybara                      | -0.0400 |
 | Velo                          | -0.0400 |
 | Data Pundits                  | -0.0400 |
-| emole                         | -0.0400 |
 | NullName                      | -0.0400 |
 
 ***Scoring:***
@@ -65,7 +65,6 @@ Please read instructions carefully.*
 | Shak                |
 | The game            |
 | PY                  |
-| Gathucy             |
 | Lambsord            |
 | Saint Levant        |
 | Youngdoo            |
@@ -78,3 +77,4 @@ Please read instructions carefully.*
 | Data Infinity       |
 | FunctionLab         |
 | Gubergoff           |
+| emole               |
