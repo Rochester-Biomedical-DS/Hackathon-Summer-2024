@@ -18,7 +18,7 @@ def get_mapping(df):
     return chr_ranges
 
 # change the df path when needed
-df = pd.read_csv("data/Tab_delimited_text/Hackathon2024.Training.Set.Peak2Gene.Pairs.txt", sep='\t') 
+df = pd.read_csv("prediction/prediction.csv") 
 genes = pd.read_csv("code/preprocessing/gene_cluster_expression_matrix.csv") 
 peaks = pd.read_csv('code/preprocessing/ATAC_features.csv', index_col=0, sep=',') 
 
@@ -41,7 +41,7 @@ end_cols = ['Peak2Gene'] if 'Peak2Gene' in df.columns else []
 cols = start_cols + gene_features + peak_features + end_cols
 df = df[cols]
 
-df.to_csv("data/extended_training_data.csv", index=False)
+df.to_csv("data/extended_test_data.csv", index=False)
 print(df.head())
 
 
